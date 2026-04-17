@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1772273751.87963 "/home/istathop/Desktop/ptyxiaki/thesis.tex" "thesis.pdf" "thesis" 1772273752.12597 2
+  "/home/istathop/Desktop/ptyxiaki/thesis.tex" 1772273745.7532 13113 9a90bdb1f03339f3ee9803da61de286f ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1770681600 40900 887e0dc8cac988a9e9c574af364cf837 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1772272432 7753792 36789564afe0f5b76072433f61bf6024 ""
+  "MastersDoctoralThesis.cls" 0 -1 0 ""
+  "thesis.aux" 1772273743.87724 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "thesis.tex" 1772273745.7532 13113 9a90bdb1f03339f3ee9803da61de286f ""
+  (generated)
+  "thesis.aux"
+  "thesis.log"
+  "thesis.pdf"
+  (rewritten before read)
