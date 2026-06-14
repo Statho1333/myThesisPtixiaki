@@ -1,0 +1,970 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{schmidl2024autotsad}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=4a742bada01b9a54aa361c425bdc817d}{%
+           family={Schmidl},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0ce321f20daaa7081cc62fef0ada0247}{%
+           family={Naumann},
+           familyi={N\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7a50a572ebbc65b289cc3df3ee2cba96}{%
+           family={Papenbrock},
+           familyi={P\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {VLDB Endowment}%
+      }
+      \strng{namehash}{2e04563f3b72d648e84efacad92b5828}
+      \strng{fullhash}{2e04563f3b72d648e84efacad92b5828}
+      \strng{fullhashraw}{2e04563f3b72d648e84efacad92b5828}
+      \strng{bibnamehash}{2e04563f3b72d648e84efacad92b5828}
+      \strng{authorbibnamehash}{2e04563f3b72d648e84efacad92b5828}
+      \strng{authornamehash}{2e04563f3b72d648e84efacad92b5828}
+      \strng{authorfullhash}{2e04563f3b72d648e84efacad92b5828}
+      \strng{authorfullhashraw}{2e04563f3b72d648e84efacad92b5828}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the VLDB Endowment}
+      \field{number}{11}
+      \field{title}{AutoTSAD: unsupervised holistic anomaly detection for time series data}
+      \field{volume}{17}
+      \field{year}{2024}
+      \field{pages}{2987\bibrangedash 3002}
+      \range{pages}{16}
+    \endentry
+    \entry{paparrizos2022volume}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=c28927bb966cb6d440fc37f585184d5c}{%
+           family={Paparrizos},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a10ec178d031d2e8ccfadd70714bf9cc}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Ruey\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9ebe5f608b419f6f8e12d935dda03f56}{%
+           family={Elmore},
+           familyi={E\bibinitperiod},
+           given={Aaron\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2b80efa845ff86794acc83783899dcf0}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fa2df7fc27bb1c19bcf7df434b5af1}
+      \strng{fullhash}{d419390a568786717c54b849cb353953}
+      \strng{fullhashraw}{d419390a568786717c54b849cb353953}
+      \strng{bibnamehash}{d419390a568786717c54b849cb353953}
+      \strng{authorbibnamehash}{d419390a568786717c54b849cb353953}
+      \strng{authornamehash}{a8fa2df7fc27bb1c19bcf7df434b5af1}
+      \strng{authorfullhash}{d419390a568786717c54b849cb353953}
+      \strng{authorfullhashraw}{d419390a568786717c54b849cb353953}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. VLDB Endow.}
+      \field{number}{11}
+      \field{title}{Volume Under the Surface: A New Accuracy Evaluation Measure for Time-Series Anomaly Detection.}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{2774\bibrangedash 2787}
+      \range{pages}{14}
+    \endentry
+    \entry{paparrizos2022tsb}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=c28927bb966cb6d440fc37f585184d5c}{%
+           family={Paparrizos},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a7df6bfb145f4164a2e38941b40abd06}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yuhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a10ec178d031d2e8ccfadd70714bf9cc}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Ruey\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2b80efa845ff86794acc83783899dcf0}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cf144718ec97c84abc1edf21f1e4ecf}
+      \strng{fullhash}{73ebce64ec255e54be64b3c271cfa33c}
+      \strng{fullhashraw}{73ebce64ec255e54be64b3c271cfa33c}
+      \strng{bibnamehash}{73ebce64ec255e54be64b3c271cfa33c}
+      \strng{authorbibnamehash}{73ebce64ec255e54be64b3c271cfa33c}
+      \strng{authornamehash}{2cf144718ec97c84abc1edf21f1e4ecf}
+      \strng{authorfullhash}{73ebce64ec255e54be64b3c271cfa33c}
+      \strng{authorfullhashraw}{73ebce64ec255e54be64b3c271cfa33c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. VLDB Endow.}
+      \field{number}{8}
+      \field{title}{TSB-UAD: An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection.}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{1697\bibrangedash 1711}
+      \range{pages}{15}
+    \endentry
+    \entry{gao2020ensemble}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=465a1064164ba0e23d7f43c28a8ce4b6}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Yifeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8e95f02a273c85ee5bc8c0638ac6d4c3}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f8a5e61e0d4a65efc89ff2f7bfc4c567}{%
+           family={Brif},
+           familyi={B\bibinitperiod},
+           given={Constantin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{fullhash}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{fullhashraw}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{bibnamehash}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{authorbibnamehash}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{authornamehash}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{authorfullhash}{a725b421ddf0de17ac8f44639b98d1cc}
+      \strng{authorfullhashraw}{a725b421ddf0de17ac8f44639b98d1cc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2001.11102}
+      \field{title}{Ensemble grammar induction for detecting anomalies in time series}
+      \field{year}{2020}
+    \endentry
+    \entry{liu2008isolation}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=231b376c1eeea575643f44deb86338c4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fei\bibnamedelima Tony},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9bc17f24d02724c02d418a27dfea50bb}{%
+           family={Ting},
+           familyi={T\bibinitperiod},
+           given={Kai\bibnamedelima Ming},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6b1a37e820a730061851a81dcca2d154}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hua},
+           giveni={Z\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{fullhash}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{fullhashraw}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{bibnamehash}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{authorbibnamehash}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{authornamehash}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{authorfullhash}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \strng{authorfullhashraw}{b38d2601a5a1a63e9c41ca76b68a2df4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2008 eighth ieee international conference on data mining}
+      \field{title}{Isolation forest}
+      \field{year}{2008}
+      \field{pages}{413\bibrangedash 422}
+      \range{pages}{10}
+    \endentry
+    \entry{breunig2000lof}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=346772f472393316fd22dd8a300d2e7d}{%
+           family={Breunig},
+           familyi={B\bibinitperiod},
+           given={Markus\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9559fe65ed2c0877cf14a66fe1f8e9b3}{%
+           family={Kriegel},
+           familyi={K\bibinitperiod},
+           given={Hans-Peter},
+           giveni={H\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=3538ec05ca1325677835daf67c1c45bf}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Raymond\bibnamedelima T},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=802157026f850823b2027c2100cb359a}{%
+           family={Sander},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dda179a4bf7e00c2cf0a091c525d901}
+      \strng{fullhash}{d65966f90d24e1cda0c67af1ce30b712}
+      \strng{fullhashraw}{d65966f90d24e1cda0c67af1ce30b712}
+      \strng{bibnamehash}{d65966f90d24e1cda0c67af1ce30b712}
+      \strng{authorbibnamehash}{d65966f90d24e1cda0c67af1ce30b712}
+      \strng{authornamehash}{6dda179a4bf7e00c2cf0a091c525d901}
+      \strng{authorfullhash}{d65966f90d24e1cda0c67af1ce30b712}
+      \strng{authorfullhashraw}{d65966f90d24e1cda0c67af1ce30b712}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2000 ACM SIGMOD international conference on Management of data}
+      \field{title}{LOF: identifying density-based local outliers}
+      \field{year}{2000}
+      \field{pages}{93\bibrangedash 104}
+      \range{pages}{12}
+    \endentry
+    \entry{boniol2021sand}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c28927bb966cb6d440fc37f585184d5c}{%
+           family={Paparrizos},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2b80efa845ff86794acc83783899dcf0}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{11417d36c3eb9c6552672f435f8ebaf8}
+      \strng{fullhash}{5294754e77ab48de96593756c47aaf95}
+      \strng{fullhashraw}{5294754e77ab48de96593756c47aaf95}
+      \strng{bibnamehash}{5294754e77ab48de96593756c47aaf95}
+      \strng{authorbibnamehash}{5294754e77ab48de96593756c47aaf95}
+      \strng{authornamehash}{11417d36c3eb9c6552672f435f8ebaf8}
+      \strng{authorfullhash}{5294754e77ab48de96593756c47aaf95}
+      \strng{authorfullhashraw}{5294754e77ab48de96593756c47aaf95}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. VLDB Endow.}
+      \field{number}{12}
+      \field{title}{SAND in Action: Subsequence Anomaly Detection for Streams.}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{2867\bibrangedash 2870}
+      \range{pages}{4}
+    \endentry
+    \entry{boniol2020automated}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=84f4c7ce53462c7a3d76653f9b25bec3}{%
+           family={Linardi},
+           familyi={L\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=abc072408884fa13463a5e392beae80d}{%
+           family={Roncallo},
+           familyi={R\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{044be9b100e0b43716706c6fa19f534b}
+      \strng{fullhash}{e846576e194bb485968342a629a2d9a5}
+      \strng{fullhashraw}{e846576e194bb485968342a629a2d9a5}
+      \strng{bibnamehash}{e846576e194bb485968342a629a2d9a5}
+      \strng{authorbibnamehash}{e846576e194bb485968342a629a2d9a5}
+      \strng{authornamehash}{044be9b100e0b43716706c6fa19f534b}
+      \strng{authorfullhash}{e846576e194bb485968342a629a2d9a5}
+      \strng{authorfullhashraw}{e846576e194bb485968342a629a2d9a5}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE 36th international conference on data engineering (ICDE)}
+      \field{title}{Automated anomaly detection in large sequences}
+      \field{year}{2020}
+      \field{pages}{1834\bibrangedash 1837}
+      \range{pages}{4}
+    \endentry
+    \entry{benecki2021detecting}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=4e929fa0b75228343c00c07aabbc96ce}{%
+           family={Benecki},
+           familyi={B\bibinitperiod},
+           given={Pawel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e521d6c493ec7fb7ce16e69426be3cbb}{%
+           family={Piechaczek},
+           familyi={P\bibinitperiod},
+           given={Szymon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ce067861acb068646a1101c220a0ee2}{%
+           family={Kostrzewa},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7abd990c95de0209ba7d331a47dcc993}{%
+           family={Nalepa},
+           familyi={N\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d3515e080443de6a741b8729bba9b25}
+      \strng{fullhash}{a9adc5a2f3b1bb435101eaa0fcd021eb}
+      \strng{fullhashraw}{a9adc5a2f3b1bb435101eaa0fcd021eb}
+      \strng{bibnamehash}{a9adc5a2f3b1bb435101eaa0fcd021eb}
+      \strng{authorbibnamehash}{a9adc5a2f3b1bb435101eaa0fcd021eb}
+      \strng{authornamehash}{1d3515e080443de6a741b8729bba9b25}
+      \strng{authorfullhash}{a9adc5a2f3b1bb435101eaa0fcd021eb}
+      \strng{authorfullhashraw}{a9adc5a2f3b1bb435101eaa0fcd021eb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Genetic and Evolutionary Computation Conference Companion}
+      \field{title}{Detecting anomalies in spacecraft telemetry using evolutionary thresholding and LSTMs}
+      \field{year}{2021}
+      \field{pages}{143\bibrangedash 144}
+      \range{pages}{2}
+    \endentry
+    \entry{boniol2021unsupervised}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=84f4c7ce53462c7a3d76653f9b25bec3}{%
+           family={Linardi},
+           familyi={L\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=abc072408884fa13463a5e392beae80d}{%
+           family={Roncallo},
+           familyi={R\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=40a5f8a104f22e89a335e02bb612aef1}{%
+           family={Meftah},
+           familyi={M\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5076be2fac5641c49862b18ac4075dc5}{%
+           family={Remy},
+           familyi={R\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{044be9b100e0b43716706c6fa19f534b}
+      \strng{fullhash}{a2adcfdce1b03d55ed650515185da70c}
+      \strng{fullhashraw}{a2adcfdce1b03d55ed650515185da70c}
+      \strng{bibnamehash}{a2adcfdce1b03d55ed650515185da70c}
+      \strng{authorbibnamehash}{a2adcfdce1b03d55ed650515185da70c}
+      \strng{authornamehash}{044be9b100e0b43716706c6fa19f534b}
+      \strng{authorfullhash}{a2adcfdce1b03d55ed650515185da70c}
+      \strng{authorfullhashraw}{a2adcfdce1b03d55ed650515185da70c}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The VLDB Journal}
+      \field{number}{6}
+      \field{title}{Unsupervised and scalable subsequence anomaly detection in large data series}
+      \field{volume}{30}
+      \field{year}{2021}
+      \field{pages}{909\bibrangedash 931}
+      \range{pages}{23}
+    \endentry
+    \entry{boniol2022theseus}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c28927bb966cb6d440fc37f585184d5c}{%
+           family={Paparrizos},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a7df6bfb145f4164a2e38941b40abd06}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yuhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a10ec178d031d2e8ccfadd70714bf9cc}{%
+           family={Tsay},
+           familyi={T\bibinitperiod},
+           given={Ruey\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9ebe5f608b419f6f8e12d935dda03f56}{%
+           family={Elmore},
+           familyi={E\bibinitperiod},
+           given={Aaron\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2b80efa845ff86794acc83783899dcf0}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4c422c391d4d68131c201a2e556e302}
+      \strng{fullhash}{248946ea588dffc470c92862a40e313f}
+      \strng{fullhashraw}{248946ea588dffc470c92862a40e313f}
+      \strng{bibnamehash}{c4c422c391d4d68131c201a2e556e302}
+      \strng{authorbibnamehash}{c4c422c391d4d68131c201a2e556e302}
+      \strng{authornamehash}{c4c422c391d4d68131c201a2e556e302}
+      \strng{authorfullhash}{248946ea588dffc470c92862a40e313f}
+      \strng{authorfullhashraw}{248946ea588dffc470c92862a40e313f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. VLDB Endow.}
+      \field{number}{12}
+      \field{title}{Theseus: Navigating the Labyrinth of Time-Series Anomaly Detection.}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{3702\bibrangedash 3705}
+      \range{pages}{4}
+    \endentry
+    \entry{yeh2016matrix}{inproceedings}{}{}
+      \name{author}{9}{}{%
+        {{hash=f0f616301ec60a5f56e5dd437a7952dc}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Chin-Chia\bibnamedelima Michael},
+           giveni={C\bibinithyphendelim C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4a21facded71b2c81786f156cd7c6591}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a801c327da4ae044b392c77858620377}{%
+           family={Ulanova},
+           familyi={U\bibinitperiod},
+           given={Liudmila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fabc9c8060ce6d608fd7e7a00322517c}{%
+           family={Begum},
+           familyi={B\bibinitperiod},
+           given={Nurjahan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6619807ab5a12b7ee1d6a28dfbec53bd}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yifei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c405e0c94297ac37d92350e926e0dc02}{%
+           family={Dau},
+           familyi={D\bibinitperiod},
+           given={Hoang\bibnamedelima Anh},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5db64a034543748c8740a92cf3b6e940}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Diego\bibnamedelima Furtado},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6edc244104556f9fb8ad6320f0e6da1f}{%
+           family={Mueen},
+           familyi={M\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1164ac6d1586ceeb53e02cf48b555413}{%
+           family={Keogh},
+           familyi={K\bibinitperiod},
+           given={Eamonn},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Ieee}%
+      }
+      \strng{namehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{fullhash}{df9a85e2d61f06dfd2b8e0dfc24c5237}
+      \strng{fullhashraw}{df9a85e2d61f06dfd2b8e0dfc24c5237}
+      \strng{bibnamehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{authorbibnamehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{authornamehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{authorfullhash}{df9a85e2d61f06dfd2b8e0dfc24c5237}
+      \strng{authorfullhashraw}{df9a85e2d61f06dfd2b8e0dfc24c5237}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE 16th international conference on data mining (ICDM)}
+      \field{title}{Matrix profile I: all pairs similarity joins for time series: a unifying view that includes motifs, discords and shapelets}
+      \field{year}{2016}
+      \field{pages}{1317\bibrangedash 1322}
+      \range{pages}{6}
+    \endentry
+    \entry{boniol2022series2graph}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{fullhash}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{fullhashraw}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{bibnamehash}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{authorbibnamehash}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{authornamehash}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{authorfullhash}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \strng{authorfullhashraw}{10bef1328a9709b7b1a5ea945e7cfedf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2207.12208}
+      \field{title}{Series2graph: Graph-based subsequence anomaly detection for time series}
+      \field{year}{2022}
+    \endentry
+    \entry{linardi2020matrix}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=84f4c7ce53462c7a3d76653f9b25bec3}{%
+           family={Linardi},
+           familyi={L\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4a21facded71b2c81786f156cd7c6591}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1164ac6d1586ceeb53e02cf48b555413}{%
+           family={Keogh},
+           familyi={K\bibinitperiod},
+           given={Eamonn},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b40fb319d4519c85edee2f553635a8b}
+      \strng{fullhash}{1ea60710fb6a985091348b0aa89c2acb}
+      \strng{fullhashraw}{1ea60710fb6a985091348b0aa89c2acb}
+      \strng{bibnamehash}{1ea60710fb6a985091348b0aa89c2acb}
+      \strng{authorbibnamehash}{1ea60710fb6a985091348b0aa89c2acb}
+      \strng{authornamehash}{1b40fb319d4519c85edee2f553635a8b}
+      \strng{authorfullhash}{1ea60710fb6a985091348b0aa89c2acb}
+      \strng{authorfullhashraw}{1ea60710fb6a985091348b0aa89c2acb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2008.13447}
+      \field{title}{Matrix profile goes MAD: variable-length motif and discord discovery in data series}
+      \field{year}{2020}
+    \endentry
+    \entry{yeh2018time}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=f0f616301ec60a5f56e5dd437a7952dc}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Chin-Chia\bibnamedelima Michael},
+           giveni={C\bibinithyphendelim C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4a21facded71b2c81786f156cd7c6591}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a801c327da4ae044b392c77858620377}{%
+           family={Ulanova},
+           familyi={U\bibinitperiod},
+           given={Liudmila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fabc9c8060ce6d608fd7e7a00322517c}{%
+           family={Begum},
+           familyi={B\bibinitperiod},
+           given={Nurjahan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6619807ab5a12b7ee1d6a28dfbec53bd}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yifei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c405e0c94297ac37d92350e926e0dc02}{%
+           family={Dau},
+           familyi={D\bibinitperiod},
+           given={Hoang\bibnamedelima Anh},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ba3a3d9bc0cfd3c3cc5c7ef92a9bbb44}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Zachary},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5db64a034543748c8740a92cf3b6e940}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Diego\bibnamedelima Furtado},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6edc244104556f9fb8ad6320f0e6da1f}{%
+           family={Mueen},
+           familyi={M\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1164ac6d1586ceeb53e02cf48b555413}{%
+           family={Keogh},
+           familyi={K\bibinitperiod},
+           given={Eamonn},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{fullhash}{0c01d9f1de94b4f7e08ce9d9c6d32533}
+      \strng{fullhashraw}{0c01d9f1de94b4f7e08ce9d9c6d32533}
+      \strng{bibnamehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{authorbibnamehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{authornamehash}{849288a32283180b3fc6813ce1b7ff1a}
+      \strng{authorfullhash}{0c01d9f1de94b4f7e08ce9d9c6d32533}
+      \strng{authorfullhashraw}{0c01d9f1de94b4f7e08ce9d9c6d32533}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Data Mining and Knowledge Discovery}
+      \field{number}{1}
+      \field{title}{Time series joins, motifs, discords and shapelets: a unifying view that exploits the matrix profile}
+      \field{volume}{32}
+      \field{year}{2018}
+      \field{pages}{83\bibrangedash 123}
+      \range{pages}{41}
+    \endentry
+    \entry{boniol2021sand_action}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=f286b8f76f2aa3253e841a5896a1c52d}{%
+           family={Boniol},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c28927bb966cb6d440fc37f585184d5c}{%
+           family={Paparrizos},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5dd9a3f3ecfded799322c136900994e2}{%
+           family={Palpanas},
+           familyi={P\bibinitperiod},
+           given={Themis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2b80efa845ff86794acc83783899dcf0}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{11417d36c3eb9c6552672f435f8ebaf8}
+      \strng{fullhash}{5294754e77ab48de96593756c47aaf95}
+      \strng{fullhashraw}{5294754e77ab48de96593756c47aaf95}
+      \strng{bibnamehash}{5294754e77ab48de96593756c47aaf95}
+      \strng{authorbibnamehash}{5294754e77ab48de96593756c47aaf95}
+      \strng{authornamehash}{11417d36c3eb9c6552672f435f8ebaf8}
+      \strng{authorfullhash}{5294754e77ab48de96593756c47aaf95}
+      \strng{authorfullhashraw}{5294754e77ab48de96593756c47aaf95}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. VLDB Endow.}
+      \field{number}{10}
+      \field{title}{SAND: Streaming Subsequence Anomaly Detection.}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{1717\bibrangedash 1729}
+      \range{pages}{13}
+    \endentry
+    \entry{akiba2019optuna}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=2939d0d5b491018f7cc7812609071a79}{%
+           family={Akiba},
+           familyi={A\bibinitperiod},
+           given={Takuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=92311081bb41fd01eb1ce06f61805909}{%
+           family={Sano},
+           familyi={S\bibinitperiod},
+           given={Shotaro},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a841fb8471f00b147fdd8954fb01c03f}{%
+           family={Yanase},
+           familyi={Y\bibinitperiod},
+           given={Toshihiko},
+           giveni={T\bibinitperiod}}}%
+        {{hash=db73c7d77457602e9a75d75bbe181aba}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Takeru},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d18b784f7f35111bc05bcbd245a34ce7}{%
+           family={Koyama},
+           familyi={K\bibinitperiod},
+           given={Masanori},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8f43cdad0ba260cdb779bdec5f24ec3}
+      \strng{fullhash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{fullhashraw}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{bibnamehash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{authorbibnamehash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{authornamehash}{a8f43cdad0ba260cdb779bdec5f24ec3}
+      \strng{authorfullhash}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \strng{authorfullhashraw}{6a8f61fd5680dbd348b2b27b4a54d0d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery \& data mining}
+      \field{title}{Optuna: A next-generation hyperparameter optimization framework}
+      \field{year}{2019}
+      \field{pages}{2623\bibrangedash 2631}
+      \range{pages}{9}
+    \endentry
+    \entry{li1997poly}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1639dadb1da2bffb2d77f43c6d3247b6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9647a2df682f3a88f0f36dc0c58aa860}{%
+           family={Skjellum},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=84b11e4dfa0d4d81f771416a9e88f1e9}{%
+           family={Falgout},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{c97e9517fea981035ea06c8f14fde351}
+      \strng{fullhash}{c97e9517fea981035ea06c8f14fde351}
+      \strng{fullhashraw}{c97e9517fea981035ea06c8f14fde351}
+      \strng{bibnamehash}{c97e9517fea981035ea06c8f14fde351}
+      \strng{authorbibnamehash}{c97e9517fea981035ea06c8f14fde351}
+      \strng{authornamehash}{c97e9517fea981035ea06c8f14fde351}
+      \strng{authorfullhash}{c97e9517fea981035ea06c8f14fde351}
+      \strng{authorfullhashraw}{c97e9517fea981035ea06c8f14fde351}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Concurrency: Practice and Experience}
+      \field{number}{5}
+      \field{title}{A poly-algorithm for parallel dense matrix multiplication on two-dimensional process grid topologies}
+      \field{volume}{9}
+      \field{year}{1997}
+      \field{pages}{345\bibrangedash 389}
+      \range{pages}{45}
+    \endentry
+    \entry{10.14778/3554821.3554873}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=57c098baaa906cd941d31b83350f2fe5}{%
+           family={Wenig},
+           familyi={W\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4a742bada01b9a54aa361c425bdc817d}{%
+           family={Schmidl},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7a50a572ebbc65b289cc3df3ee2cba96}{%
+           family={Papenbrock},
+           familyi={P\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {VLDB Endowment}%
+      }
+      \strng{namehash}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{fullhash}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{fullhashraw}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{bibnamehash}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{authorbibnamehash}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{authornamehash}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{authorfullhash}{a2039b56e6ea87f1a228a3af099aed59}
+      \strng{authorfullhashraw}{a2039b56e6ea87f1a228a3af099aed59}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Detecting anomalous subsequences in time series is an important task in time series analytics because it serves the identification of special events, such as production faults, delivery bottlenecks, system defects, or heart flicker. Consequently, many algorithms have been developed for the automatic detection of such anomalous patterns. The enormous number of approaches (i. e., more than 158 as of today), the lack of properly labeled test data, and the complexity of time series anomaly benchmarking have, though, led to a situation where choosing the best detection technique for a given anomaly detection task is a difficult challenge.In this demonstration, we present TimeEval, an extensible, scalable and automatic benchmarking toolkit for time series anomaly detection algorithms. TimeEval includes an extensive data generator and supports both interactive and batch evaluation scenarios. With our novel toolkit, we aim to ease the evaluation effort and help the community to provide more meaningful evaluations.}
+      \field{issn}{2150-8097}
+      \field{journaltitle}{Proc. VLDB Endow.}
+      \field{month}{8}
+      \field{number}{12}
+      \field{title}{TimeEval: a benchmarking toolkit for time series anomaly detection algorithms}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{3678\bibrangedash 3681}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.14778/3554821.3554873
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.14778/3554821.3554873
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.14778/3554821.3554873
+      \endverb
+    \endentry
+    \entry{li2007unifying}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=1016f45114ced473595a89e1864b0333}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9a25a3fa4776a39034dda40a0af8e744}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d468a23d6183ecddb0e3759d7a834172}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Yongbing},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{80cc109a23c0e9c63859353ea042608f}
+      \strng{fullhash}{80cc109a23c0e9c63859353ea042608f}
+      \strng{fullhashraw}{80cc109a23c0e9c63859353ea042608f}
+      \strng{bibnamehash}{80cc109a23c0e9c63859353ea042608f}
+      \strng{authorbibnamehash}{80cc109a23c0e9c63859353ea042608f}
+      \strng{authornamehash}{80cc109a23c0e9c63859353ea042608f}
+      \strng{authorfullhash}{80cc109a23c0e9c63859353ea042608f}
+      \strng{authorfullhashraw}{80cc109a23c0e9c63859353ea042608f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Pacific-Asia Conference on Knowledge Discovery and Data Mining}
+      \field{title}{A unifying method for outlier and change detection from data streams based on local polynomial fitting}
+      \field{year}{2007}
+      \field{pages}{150\bibrangedash 161}
+      \range{pages}{12}
+    \endentry
+  \enddatalist
+  \missing{mahin2024norma}
+\endrefsection
+\endinput
+

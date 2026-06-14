@@ -1,0 +1,35 @@
+\selectlanguage *{greek}
+\selectlanguage *{greek}
+\contentsline {chapter}{Δήλωση Πνευματικής Ιδιοκτησίας}{iii}{section*.1}%
+\contentsline {chapter}{Περίληψη}{v}{section*.2}%
+\contentsline {chapter}{Ευχαριστίες}{vii}{section*.3}%
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{1}{chapter.8}%
+\contentsline {section}{\numberline {1.1}Το Πρόβλημα}{1}{section.9}%
+\contentsline {section}{\numberline {1.2}Προτεινόμενες Λύσεις}{1}{section.10}%
+\contentsline {subsection}{\numberline {1.2.1}TSB-UAD Σύστημα σημείου αναφοράς (benchmark) για την ανίχνευση ανωμαλιών σε χρονοσειρές}{2}{subsection.11}%
+\contentsline {subsection}{\numberline {1.2.2}AutoTSAD: Ένα αυτοματοποιημένο σύστημα για την ανίχνευση ανωμαλιών σε χρονοσειρές}{2}{subsection.12}%
+\contentsline {section}{\numberline {1.3}Σκοπός Πτυχιακής}{2}{section.13}%
+\contentsline {chapter}{\numberline {2}Θεωρητικό Υπόβαθρο}{3}{chapter.14}%
+\contentsline {section}{\numberline {2.1}Χρονοσειρές}{3}{section.15}%
+\contentsline {section}{\numberline {2.2}Ανωμαλίες}{3}{section.16}%
+\contentsline {section}{\numberline {2.3}Μεμονωμένοι Αλγόριθμοι Σύγκρισης}{6}{section.30}%
+\contentsline {subsection}{\numberline {2.3.1}Isolation Forest}{6}{subsection.31}%
+\contentsline {subsection}{\numberline {2.3.2}NormA}{9}{subsection.33}%
+\contentsline {subsection}{\numberline {2.3.3}Matrix Profile - MP}{12}{subsection.34}%
+\contentsline {subsection}{\numberline {2.3.4}POLY}{16}{subsection.38}%
+\contentsline {chapter}{\numberline {3}Πειραματική Διάταξη και Συγκριτική αξιολόγηση}{19}{chapter.39}%
+\contentsline {section}{\numberline {3.1}Γενικά}{19}{section.40}%
+\contentsline {subsection}{\numberline {3.1.1}Μετρικές Αξιολόγησης}{19}{subsection.42}%
+\contentsline {subsection}{\numberline {3.1.2}Γενικές Παρατηρήσεις}{20}{subsection.43}%
+\contentsline {subsection}{\numberline {3.1.3}TODO}{20}{subsection.45}%
+\contentsline {section}{\numberline {3.2}Public Dataset}{20}{section.46}%
+\contentsline {subsection}{\numberline {3.2.1}Τα dataset}{21}{subsection.47}%
+\contentsline {subsection}{\numberline {3.2.2}Χρόνοι εκτέλεσης}{23}{subsection.48}%
+\contentsline {subsection}{\numberline {3.2.3}Αποτελέσματα ROC-VUS}{27}{subsection.57}%
+\contentsline {subsubsection}{Συγκριτικά αποτελέσματα με Optuna-ON}{28}{section*.61}%
+\contentsline {subsubsection}{Συγκριτικά αποτελέσματα με Optuna-OFF}{31}{section*.67}%
+\contentsline {section}{\numberline {3.3}Artificial Dataset}{32}{section.70}%
+\contentsline {section}{\numberline {3.4}ΚΕΡΔΟΣ ΑΝΑ ΧΡΟΝΟ}{32}{section.71}%
+\contentsline {chapter}{\numberline {\Greeknumeral {1}}Frequently Asked Questions}{35}{appendix.72}%
+\contentsline {section}{\numberline {\Greeknumeral {1}.1}How do I change the colors of links?}{35}{section.73}%
+\contentsline {chapter}{Βιβλιογραφία}{37}{appendix*.74}%

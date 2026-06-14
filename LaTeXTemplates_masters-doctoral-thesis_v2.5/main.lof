@@ -1,0 +1,67 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Τύποι ανωμαλιών σε χρονοσειρές (αναπαραγωγή από \blx@tocontentsinit {0}\cite {paparrizos2022tsb})\relax }}{4}{figure.caption.17}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Amplitude anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{4}{figure.caption.18}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Extremum anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{5}{figure.caption.19}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Frequency anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{5}{figure.caption.20}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Mean anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{6}{figure.caption.21}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Pattern-sine anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{6}{figure.caption.22}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Pattern-ecg anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{7}{figure.caption.23}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Pattern-shift anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{7}{figure.caption.24}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Platform anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{8}{figure.caption.25}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Trend anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{8}{figure.caption.26}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Variance anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{9}{figure.caption.27}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Mode correlation anomaly (αναπαραγωγή από \blx@tocontentsinit {0}\cite {10.14778/3554821.3554873})\relax }}{9}{figure.caption.28}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Χρονοσειρές με διαφορετικούς τύπους ανωμαλιών (αναπαραγωγή από \blx@tocontentsinit {0}\cite {paparrizos2022tsb})\relax }}{10}{figure.caption.29}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces (a) Απομόνωση κανονικού σημείου $x_i$ (b) Απομόνωση ανώμαλου σημείου $x_0$ (c) Μέση απόσταση σημείων $x_0$ και $x_i$ από ρίζα δένδρου, με αυξανόμενο αριθμό δένδρων (αναπαραγωγή από \blx@tocontentsinit {0}\cite {liu2008isolation})\relax }}{11}{figure.caption.32}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Ανχίχνευση ανωμαλιών με τον \emph {Matrix Profile} (αναπαραγωγή από \blx@tocontentsinit {0}\cite {yeh2018time})\relax }}{13}{figure.caption.35}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces (αναπαραγωγή από \blx@tocontentsinit {0}\cite {yeh2018time})\relax }}{15}{figure.caption.36}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces (αναπαραγωγή από \blx@tocontentsinit {0}\cite {yeh2018time})\relax }}{15}{figure.caption.37}%
+\addvspace {10\p@ }
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ποσοστά επιτυχίας ανίχνευσης τουλάχιστον μίας ανωμαλίας του Auto-TSAD\relax }}{21}{figure.caption.44}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Χρόνοι εκτέλεσης για κάθε dataset με ανοιχτή την μηχανή βελτιστοποίησης optuna, σε ώρες.\relax }}{24}{figure.caption.49}%
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Κώδικας για την εκτέλεση του IForest μέσω του TSB-UAD\relax }}{26}{figure.caption.53}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Κώδικας για την εκτέλεση του POLY μέσω του TSB-UAD\relax }}{26}{figure.caption.54}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Κώδικας για την εκτέλεση του MP μέσω του TSB-UAD\relax }}{27}{figure.caption.55}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Κώδικας για την εκτέλεση του MP μέσω του TSB-UAD. Πάνω αριστερά διακρίνουμε τις χρονικές απαιτήσεις του IForest. Πάνω δεξιά της χρονικές απαιτήσεις του POLY. Κάτω αριστερά διακρίνουμε τις χρονικές απαιτήσεις του MP. Κάτω δεξιά διακρίνουμε συγκριτικά τις χρονικές απαιτήσεις όλων των αλγόριθμων.\relax }}{27}{figure.caption.56}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Συγκριτικά αποτελέσματα αλγορίθμων IForest - POLY - MP στην μετρική ROC-VUS.\relax }}{29}{figure.caption.62}%
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Αποτελέσματα χρήσης Optuna σε φθίνουσα σειρά.\relax }}{31}{figure.caption.63}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Σύγκριση μεταξύ όλων των τεχνικών.\relax }}{32}{figure.caption.65}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Σύγκριση μεταξύ όλων των τεχνικών.\relax }}{33}{figure.caption.66}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Αποτελέσματα Auto-TSAD με Optuna-OFF στο v2\_public dataset.\relax }}{33}{figure.caption.68}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Σύγκριση αποτελεσμάτων μεταξύ Auto-TSAD χωρίς Optuna και TSB-UAD.\relax }}{33}{figure.caption.69}%
+\addvspace {10\p@ }
