@@ -17,19 +17,25 @@
 \contentsline {subsection}{\numberline {2.3.2}NormA}{9}{subsection.33}%
 \contentsline {subsection}{\numberline {2.3.3}Matrix Profile - MP}{12}{subsection.34}%
 \contentsline {subsection}{\numberline {2.3.4}POLY}{16}{subsection.38}%
-\contentsline {chapter}{\numberline {3}Πειραματική Διάταξη και Συγκριτική αξιολόγηση}{19}{chapter.39}%
-\contentsline {section}{\numberline {3.1}Γενικά}{19}{section.40}%
-\contentsline {subsection}{\numberline {3.1.1}Μετρικές Αξιολόγησης}{19}{subsection.42}%
-\contentsline {subsection}{\numberline {3.1.2}Γενικές Παρατηρήσεις}{20}{subsection.43}%
-\contentsline {subsection}{\numberline {3.1.3}TODO}{20}{subsection.45}%
-\contentsline {section}{\numberline {3.2}Public Dataset}{20}{section.46}%
-\contentsline {subsection}{\numberline {3.2.1}Τα dataset}{21}{subsection.47}%
-\contentsline {subsection}{\numberline {3.2.2}Χρόνοι εκτέλεσης}{23}{subsection.48}%
-\contentsline {subsection}{\numberline {3.2.3}Αποτελέσματα ROC-VUS}{27}{subsection.57}%
-\contentsline {subsubsection}{Συγκριτικά αποτελέσματα με Optuna-ON}{28}{section*.61}%
-\contentsline {subsubsection}{Συγκριτικά αποτελέσματα με Optuna-OFF}{31}{section*.67}%
-\contentsline {section}{\numberline {3.3}Artificial Dataset}{32}{section.70}%
-\contentsline {section}{\numberline {3.4}ΚΕΡΔΟΣ ΑΝΑ ΧΡΟΝΟ}{32}{section.71}%
-\contentsline {chapter}{\numberline {\Greeknumeral {1}}Frequently Asked Questions}{35}{appendix.72}%
-\contentsline {section}{\numberline {\Greeknumeral {1}.1}How do I change the colors of links?}{35}{section.73}%
-\contentsline {chapter}{Βιβλιογραφία}{37}{appendix*.74}%
+\contentsline {subsection}{\numberline {2.3.5}AutoTSAD: Unsupervised Holistic Anomaly Detection for Time Series Data}{17}{subsection.39}%
+\contentsline {subsubsection}{Εισαγωγή και Πλαισίωση του Προβλήματος}{17}{section*.40}%
+\contentsline {subsubsection}{Αρχιτεκτονική Συστήματος}{18}{section*.41}%
+\contentsline {subsubsection}{Θεμελιώδης Καινοτομίες και Πλεονεκτήματα του Συστήματος}{18}{section*.43}%
+\contentsline {subsubsection}{Αξιολόγηση Απόδοσης και Ποιότητα Ανίχνευσης}{20}{section*.45}%
+\contentsline {subsubsection}{Συμπερασματα}{20}{section*.47}%
+\contentsline {chapter}{\numberline {3}Πειραματική Διάταξη και Συγκριτική αξιολόγηση}{23}{chapter.48}%
+\contentsline {section}{\numberline {3.1}Γενικά}{23}{section.49}%
+\contentsline {subsection}{\numberline {3.1.1}Μετρικές Αξιολόγησης}{23}{subsection.51}%
+\contentsline {subsection}{\numberline {3.1.2}Γενικές Παρατηρήσεις}{24}{subsection.52}%
+\contentsline {subsection}{\numberline {3.1.3}TODO}{24}{subsection.54}%
+\contentsline {section}{\numberline {3.2}Public Dataset}{24}{section.55}%
+\contentsline {subsection}{\numberline {3.2.1}Τα dataset}{25}{subsection.56}%
+\contentsline {subsection}{\numberline {3.2.2}Χρόνοι εκτέλεσης}{27}{subsection.57}%
+\contentsline {subsection}{\numberline {3.2.3}Αποτελέσματα ROC-VUS}{31}{subsection.66}%
+\contentsline {subsubsection}{Συγκριτικά αποτελέσματα με Optuna-ON}{32}{section*.70}%
+\contentsline {subsubsection}{Συγκριτικά αποτελέσματα με Optuna-OFF}{35}{section*.76}%
+\contentsline {section}{\numberline {3.3}Artificial Dataset}{36}{section.79}%
+\contentsline {section}{\numberline {3.4}ΚΕΡΔΟΣ ΑΝΑ ΧΡΟΝΟ}{36}{section.80}%
+\contentsline {chapter}{\numberline {\Greeknumeral {1}}Frequently Asked Questions}{39}{appendix.81}%
+\contentsline {section}{\numberline {\Greeknumeral {1}.1}How do I change the colors of links?}{39}{section.82}%
+\contentsline {chapter}{Βιβλιογραφία}{41}{appendix*.83}%

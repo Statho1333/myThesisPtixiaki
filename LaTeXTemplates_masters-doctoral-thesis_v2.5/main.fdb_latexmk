@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber main"] 1781450448.17246 "main.bcf" "main.bbl" "main" 1781453651.3097 0
+["biber main"] 1781546532.63769 "main.bcf" "main.bbl" "main" 1781550764.32199 0
   "example.bib" 1781420260.0635 7850 54c583bd0cfcaf1c82ffb27b46bab729 ""
-  "main.bcf" 1781453648.59753 113015 e2d8463403a247ac85cfa290a8b945e8 "xelatex"
+  "main.bcf" 1781550762.0626 113170 ed80446d49945f6d9eb1aafd890c77ff "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1781453648.81676 "main.xdv" "main.pdf" "main" 1781453651.31329 0
-  "main.xdv" 1781453648.59968 744404 0227804941264a20bc74f44c58eb08a5 "xelatex"
+["xdvipdfmx"] 1781550762.24358 "main.xdv" "main.pdf" "main" 1781550764.32436 0
+  "main.xdv" 1781550762.06477 851592 dee7f4b8d9bfddce96c586d5b6facb1e "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1781453641.42772 "/home/istathop/Desktop/ptyxiaki/myThesisPtixiaki/LaTeXTemplates_masters-doctoral-thesis_v2.5/main.tex" "main.xdv" "main" 1781453651.30981 0
+["xelatex"] 1781550756.35069 "/home/istathop/Desktop/ptyxiaki/myThesisPtixiaki/LaTeXTemplates_masters-doctoral-thesis_v2.5/main.tex" "main.xdv" "main" 1781550764.32209 0
   "/home/istathop/Desktop/ptyxiaki/myThesisPtixiaki/LaTeXTemplates_masters-doctoral-thesis_v2.5/main.tex" 1781419870.7821 15938 90495666abb8c0b4b6f16301fcb65c7b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -141,18 +141,19 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty" 1585258158 8314 7803f78066c4f9d008405191a4b43073 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1778861634 11142210 e55c1e72e776571b17658c01e66f4bbc ""
-  "Appendices/AppendixA.aux" 1781453648.21708 4596 bc4da7683f81dcf6ab0a3bb21d978bb2 "xelatex"
+  "Appendices/AppendixA.aux" 1781550761.7516 4596 1fdbff2adc836f5494899a2eb3521e8d "xelatex"
   "Appendices/AppendixA.tex" 1776414498 698 f7391f3287c963150dd3cba4f59a80f2 ""
-  "Chapters/Chapter1.aux" 1781453645.42232 5350 0af369239ac44e362d5aea673502848f "xelatex"
+  "Chapters/Chapter1.aux" 1781550759.44652 5350 0af369239ac44e362d5aea673502848f "xelatex"
   "Chapters/Chapter1.tex" 1776414498 8549 7cc678a4f5bcc0937ab2f9904bb01ada ""
-  "Chapters/Chapter2.aux" 1781453646.91538 14161 dc0e42094de588f78e6b7e43e9b475e1 "xelatex"
-  "Chapters/Chapter2.tex" 1781452513.28603 46666 062be3cc3a382454053ae25d325b5a67 ""
-  "Chapters/Chapter3.aux" 1781453648.12753 15335 453322f079fd49f2fb7e02fae93f4405 "xelatex"
+  "Chapters/Chapter2.aux" 1781550760.8196 17629 acd2a2f9866180fd454ca3f46fe69001 "xelatex"
+  "Chapters/Chapter2.tex" 1781550750.10202 62384 5c80f6b30af7b907b924a2c5a8738c83 ""
+  "Chapters/Chapter3.aux" 1781550761.6906 15335 a5d23a5abe42c63241fad8efe8b79840 "xelatex"
   "Chapters/Chapter3.tex" 1781453633.78558 42708 c6f37b45e5a1bc33b5dff7649b882e46 ""
   "Figures/Comparison_Between_Auto-TSAD_WO_Optuna_and_TSB-UAD_algorithms.png" 1777140607.29529 27212 fe7468d61b9ebe9d9032438bb891af97 ""
   "Figures/MP_anomaly_detection.png" 1776414498 30114 b6c39951395488a39acce102bd5f4a2b ""
   "Figures/anomalies_combined.png" 1776414498 122750 6e11d408f51950c31c482e7ccd4a97cc ""
   "Figures/anomalies_types.png" 1776414498 78998 497083b3b3cd2e74bd80b7cf1f24f7f9 ""
+  "Figures/autotsad_architecture.png" 1781539115.67329 73112 e5ef461f51109b4609922706648e527c ""
   "Figures/banner-vertical-300ppi.png" 1776414498 264605 54938265531619edda294c299e23a99c ""
   "Figures/gutenTAG_anomalies/amplitude.png" 1781449385.96845 39964 eee7a698f86bac773578e3ebf56d1829 ""
   "Figures/gutenTAG_anomalies/extremum.png" 1781449419.13731 41108 a901c2ddfb0e1a56ce86ee0ea17f9197 ""
@@ -173,6 +174,8 @@
   "Figures/stamp_stomp_varryingM.png" 1776421226.85135 19360 932df15600702df27210eb8169938215 ""
   "Figures/stamp_stomp_varryingN.png" 1776421168.71118 22310 08ca3030c058418bdf43fbc382aebbae ""
   "Figures/success_rates_tsad.png" 1776695749.32267 34296 3dae9763e6b300ab1f2757cbe5be07dc ""
+  "Figures/tsadTimes.png" 1781546023.51878 22783 44625ca98c21fdac6c3079c280f1ebdc ""
+  "Figures/tsadVSothers.png" 1781549567.07639 28278 fdd5dd795a09f6e211262609688a6074 ""
   "Figures/v2_optuna-on_VUS.png" 1776674959.39004 62839 48b2dc7e7b260fde72313ba56946c1a7 ""
   "Figures/v2_optuna-on_more_comparisons.png" 1776675251.11964 67035 324f462890f2e1403152a54ee09612c2 ""
   "Figures/v2_optuna-on_tsb-vus-compare.png" 1776849397.62333 204398 87666be6deaf44784778cc16a4424a9d ""
@@ -180,14 +183,14 @@
   "Figures/v2_time_tsb.png" 1776675071.2017 163595 a6b4a5e550c6362680cdc2b860c6c288 ""
   "Figures/vus-comparison-between-all.png" 1776849690.42303 78092 0c59dfa9c4b3c0b384d9ecacc7a0f831 ""
   "MastersDoctoralThesis.cls" 1776414498 19396 2a887260d654c03417ab43c712fb342a ""
-  "main.aux" 1781453648.55753 8570 f74ef340cf61fbae0ece5203a9345c5a "xelatex"
-  "main.bbl" 1781450449.01002 41095 fe2bde8c026abab75cdd5dd30469e1ac "biber main"
-  "main.lof" 1781453648.59968 7261 b855adde58f3d4f487741c31ed423d46 "xelatex"
-  "main.lot" 1781453648.59968 1995 7d041e7fda27aa281d80a8829e7740d6 "xelatex"
-  "main.out" 1781453648.59179 6990 5b629e4e1a7870a1d02dd9b3dd241972 "xelatex"
-  "main.run.xml" 1781453648.59968 2495 5606964b71e0575abdd0623c620d9280 "xelatex"
+  "main.aux" 1781550762.03399 8738 85aa32d484e18c07c66e311b30874dda "xelatex"
+  "main.bbl" 1781546533.48964 41095 fe2bde8c026abab75cdd5dd30469e1ac "biber main"
+  "main.lof" 1781550762.06477 8420 f3d11d0654942e35fff94b79e221a334 "xelatex"
+  "main.lot" 1781550762.06477 2079 8bb7c683b7f0dea82620078715c81d9a "xelatex"
+  "main.out" 1781550762.05855 9093 ccd6aaf45cc2ea6da8b01b5b74124bcb "xelatex"
+  "main.run.xml" 1781550762.06477 2495 5606964b71e0575abdd0623c620d9280 "xelatex"
   "main.tex" 1781419870.7821 15938 90495666abb8c0b4b6f16301fcb65c7b ""
-  "main.toc" 1781453648.59968 3250 ad74c7af48ad6a7a9222852c24012b29 "xelatex"
+  "main.toc" 1781550762.06477 3968 cd0ff744d08cdf54c069dcbe36f20166 "xelatex"
   (generated)
   "Appendices/AppendixA.aux"
   "Chapters/Chapter1.aux"

@@ -34,34 +34,40 @@
 \contentsline {figure}{\numberline {2.16}{\ignorespaces (αναπαραγωγή από \blx@tocontentsinit {0}\cite {yeh2018time})\relax }}{15}{figure.caption.36}%
 \setforeignlanguage {greek}
 \contentsline {figure}{\numberline {2.17}{\ignorespaces (αναπαραγωγή από \blx@tocontentsinit {0}\cite {yeh2018time})\relax }}{15}{figure.caption.37}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Επισκόπηση της αρχιτεκτονικής του AutoTSAD\relax }}{19}{figure.caption.42}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces (αριστερά) Κατανομή χρόνου εκτέλεσης του AutoTSAD με βελτιστοποίηση (Ο+) και χωρίς βελτιστοποίηση (Ο-) για τα dataset (A) TSB-UAD-artificial-69\_2\_0.02\_15, (B) KDD-TSAD-022, and (C) SAND-SED, (δεξιά) διάμεσοι χρόνοι εκτέλεσης για όλα τα dataset χωρίς βελτιστοποίηση για διαφορετικούς αριθμούς παραλληλισμού\relax }}{20}{figure.caption.44}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Ποιότητα Ανίχνευσης Ανωμαλιών (RANGE-PR-AUC) του \emph {AutoTSAD} συγκριτκά με άλλους baseline αλγόριθμους-συστήματα, σε όλα τα επιτυχώς επεξεργασμένα datasets\relax }}{21}{figure.caption.46}%
 \addvspace {10\p@ }
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Ποσοστά επιτυχίας ανίχνευσης τουλάχιστον μίας ανωμαλίας του Auto-TSAD\relax }}{21}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ποσοστά επιτυχίας ανίχνευσης τουλάχιστον μίας ανωμαλίας του Auto-TSAD\relax }}{25}{figure.caption.53}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Χρόνοι εκτέλεσης για κάθε dataset με ανοιχτή την μηχανή βελτιστοποίησης optuna, σε ώρες.\relax }}{24}{figure.caption.49}%
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Χρόνοι εκτέλεσης για κάθε dataset με ανοιχτή την μηχανή βελτιστοποίησης optuna, σε ώρες.\relax }}{28}{figure.caption.58}%
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Κώδικας για την εκτέλεση του IForest μέσω του TSB-UAD\relax }}{26}{figure.caption.53}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Κώδικας για την εκτέλεση του POLY μέσω του TSB-UAD\relax }}{26}{figure.caption.54}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Κώδικας για την εκτέλεση του MP μέσω του TSB-UAD\relax }}{27}{figure.caption.55}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Κώδικας για την εκτέλεση του MP μέσω του TSB-UAD. Πάνω αριστερά διακρίνουμε τις χρονικές απαιτήσεις του IForest. Πάνω δεξιά της χρονικές απαιτήσεις του POLY. Κάτω αριστερά διακρίνουμε τις χρονικές απαιτήσεις του MP. Κάτω δεξιά διακρίνουμε συγκριτικά τις χρονικές απαιτήσεις όλων των αλγόριθμων.\relax }}{27}{figure.caption.56}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Συγκριτικά αποτελέσματα αλγορίθμων IForest - POLY - MP στην μετρική ROC-VUS.\relax }}{29}{figure.caption.62}%
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Αποτελέσματα χρήσης Optuna σε φθίνουσα σειρά.\relax }}{31}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Κώδικας για την εκτέλεση του IForest μέσω του TSB-UAD\relax }}{30}{figure.caption.62}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Σύγκριση μεταξύ όλων των τεχνικών.\relax }}{32}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Κώδικας για την εκτέλεση του POLY μέσω του TSB-UAD\relax }}{30}{figure.caption.63}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Σύγκριση μεταξύ όλων των τεχνικών.\relax }}{33}{figure.caption.66}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Κώδικας για την εκτέλεση του MP μέσω του TSB-UAD\relax }}{31}{figure.caption.64}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Αποτελέσματα Auto-TSAD με Optuna-OFF στο v2\_public dataset.\relax }}{33}{figure.caption.68}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Κώδικας για την εκτέλεση του MP μέσω του TSB-UAD. Πάνω αριστερά διακρίνουμε τις χρονικές απαιτήσεις του IForest. Πάνω δεξιά της χρονικές απαιτήσεις του POLY. Κάτω αριστερά διακρίνουμε τις χρονικές απαιτήσεις του MP. Κάτω δεξιά διακρίνουμε συγκριτικά τις χρονικές απαιτήσεις όλων των αλγόριθμων.\relax }}{31}{figure.caption.65}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Σύγκριση αποτελεσμάτων μεταξύ Auto-TSAD χωρίς Optuna και TSB-UAD.\relax }}{33}{figure.caption.69}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Συγκριτικά αποτελέσματα αλγορίθμων IForest - POLY - MP στην μετρική ROC-VUS.\relax }}{33}{figure.caption.71}%
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Αποτελέσματα χρήσης Optuna σε φθίνουσα σειρά.\relax }}{35}{figure.caption.72}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Σύγκριση μεταξύ όλων των τεχνικών.\relax }}{36}{figure.caption.74}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Σύγκριση μεταξύ όλων των τεχνικών.\relax }}{37}{figure.caption.75}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Αποτελέσματα Auto-TSAD με Optuna-OFF στο v2\_public dataset.\relax }}{37}{figure.caption.77}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Σύγκριση αποτελεσμάτων μεταξύ Auto-TSAD χωρίς Optuna και TSB-UAD.\relax }}{37}{figure.caption.78}%
 \addvspace {10\p@ }

@@ -17,24 +17,27 @@
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
 \addvspace {10\p@ }
 \setforeignlanguage {greek}
-\contentsline {table}{\numberline {3.1}{\ignorespaces Experiments For Auto-TSAD with/out for each dataset\relax }}{19}{table.caption.41}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces Experiments For Auto-TSAD with/out for each dataset\relax }}{23}{table.caption.50}%
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
-\contentsline {table}{\numberline {3.2}{\ignorespaces Στατιστικά χρόνου εκτέλεσης με την optuna στο publicv2 dataset\relax }}{24}{table.caption.50}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Στατιστικά χρόνου εκτέλεσης με την optuna στο publicv2 dataset\relax }}{28}{table.caption.59}%
 \setforeignlanguage {greek}
-\contentsline {table}{\numberline {3.3}{\ignorespaces Χρόνοι εκτέλεσης σε sec στο dataset public v2, χωρίς ενεργή την μηχανή βελτιστοποίησης\relax }}{25}{table.caption.51}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Χρόνοι εκτέλεσης σε sec στο dataset public v2, χωρίς ενεργή την μηχανή βελτιστοποίησης\relax }}{29}{table.caption.60}%
 \setforeignlanguage {greek}
-\contentsline {table}{\numberline {3.4}{\ignorespaces Χρόνοι εκτέλεσης σε sec στο dataset public v2, χωρίς ενεργή την μηχανή βελτιστοποίησης και χωρίς ακραίες τιμές\relax }}{26}{table.caption.52}%
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Χρόνοι εκτέλεσης σε sec στο dataset public v2, χωρίς ενεργή την μηχανή βελτιστοποίησης και χωρίς ακραίες τιμές\relax }}{30}{table.caption.61}%
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
-\contentsline {table}{\numberline {3.5}{\ignorespaces Νικητήριος Αλγόριθμος ανά Dataset\relax }}{30}{table.caption.64}%
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Νικητήριος Αλγόριθμος ανά Dataset\relax }}{34}{table.caption.73}%
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}

@@ -1227,6 +1227,15 @@ INPUT Figures/stamp_stomp_varryingN.png
 INPUT ./Figures/stamp_stomp_varryingM.png
 INPUT ./Figures/stamp_stomp_varryingM.png
 INPUT Figures/stamp_stomp_varryingM.png
+INPUT ./Figures/autotsad_architecture.png
+INPUT ./Figures/autotsad_architecture.png
+INPUT Figures/autotsad_architecture.png
+INPUT ./Figures/tsadTimes.png
+INPUT ./Figures/tsadTimes.png
+INPUT Figures/tsadTimes.png
+INPUT ./Figures/tsadVSothers.png
+INPUT ./Figures/tsadVSothers.png
+INPUT Figures/tsadVSothers.png
 INPUT ./Chapters/Chapter3.tex
 INPUT ./Chapters/Chapter3.tex
 INPUT ./Chapters/Chapter3.tex
